@@ -7,7 +7,7 @@
 
 * While this is an improvement, accuracy remains a problem as the region’s population grows and poverty declines.
 
-# The Inter-American Development Bank (IDB)believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance. Following actions should be performed:
+* The Inter-American Development Bank (IDB)believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance. Following actions should be performed:
 
 * Identify the output variable.
 * Understand the type of data.
